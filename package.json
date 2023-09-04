@@ -97,7 +97,7 @@
     "load-grunt-tasks": "^4.0.0",
     "merge": ">=1.2.1",
     "minimatch": ">=3.0.4",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "run-sequence": "^2.2.1",
     "shell-escape": "0.2.0",
     "source-map-support": "0.3.3",
